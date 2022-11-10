@@ -78,31 +78,24 @@ smingsming
 
 
 
-### 👨‍💻 [Back-end](https://github.com/shockim3710/jojo_cloneproject_back)
-
-
-
+### 👨‍💻 Back-end
 
 　  
-## [ER diagram](https://www.erdcloud.com/d/xp3SgQBEqHSjAohSq)
-![image](https://user-images.githubusercontent.com/60650967/188565314-7512a89e-b559-4bc3-a555-82889bd3d6db.png)
+## [ER diagram]
 
-## [화면설계서](https://www.erdcloud.com/d/xp3SgQBEqHSjAohSq)
-![image](https://user-images.githubusercontent.com/60650967/188565314-7512a89e-b559-4bc3-a555-82889bd3d6db.png) 
+## [화면설계서]
 　  
-## [Requirements Specification](https://docs.google.com/spreadsheets/d/1a1PtRp8t8666hi3sDFDErzg1yBqVUA4YbWo16KLUy4g/edit#gid=1334477929)
-![image](https://user-images.githubusercontent.com/60650967/188920653-605962f1-349c-4b08-85ed-0c38e3fecdfc.png)
+## [Requirements Specification]
 
 
 
 
 　  
 ## [API definition](https://docs.google.com/spreadsheets/d/1hM8PR1Gooo6hjINPKSwMS9sOXrUBAVZxQLKrA-TetUg/edit#gid=2003183701)
-![image](https://user-images.githubusercontent.com/60650967/188804587-6cd12b47-af1f-4d00-bd6f-d86a8f5e4b6d.png)
 
 
 
 
 　  
 ## 구현 영상
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/_YbM1buyPRo/0.jpg)](http://www.youtube.com/watch?v=_YbM1buyPRo)
+
