@@ -91,7 +91,7 @@ smingsming
 
 
 　  
-## [API definition](https://docs.google.com/spreadsheets/d/1hM8PR1Gooo6hjINPKSwMS9sOXrUBAVZxQLKrA-TetUg/edit#gid=2003183701)
+## [API definition]
 
 
 
