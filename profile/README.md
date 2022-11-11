@@ -83,21 +83,19 @@ smingsming
 * 팀원 민광식 : API 연결, 검색, 음원, 채팅 기능 구현
 　  
 ## [ER diagram](https://www.erdcloud.com/d/Kiuv6hsaktt5AhegW)
-![](imgs/ERD.png)
-
+<img width="1293" alt="ERD" src="https://user-images.githubusercontent.com/108394795/201238732-7c405a82-a9b0-49f7-929b-3a9a37b7355c.png">
 
 ## [화면설계서](https://www.figma.com/file/8QKxDA9X93SblC2HkBSAUG/Sming-Sming?node-id=0%3A1)
-![](imgs/화면설계서.png)
+![화면설계서](https://user-images.githubusercontent.com/108394795/201238588-380e5735-ba12-4d08-99bf-dbc63d319417.png)
 
 ## [화면정의서](https://docs.google.com/presentation/d/1pd8nV2ZLs4-HWw1dbYU9lgc0gnLSC452/edit)
-![](imgs/화면정의서.png)
+![화면정의서](https://user-images.githubusercontent.com/108394795/201238443-476afd92-891a-41b7-9363-2c56fec60c3e.png)
 
 ## [Requirements Specification](https://docs.google.com/spreadsheets/d/1h0bwG5rpz2PIL-nzUS_wUebae_34hMkCdxuDkRUPh8c/edit?usp=sharing)
-![](imgs/요구사항정의서.png)
-
+![요구사항정의서](https://user-images.githubusercontent.com/108394795/201238539-76232a2e-72e8-4e7c-bbdb-27e1ede1516c.png)
 
 ## [API definition](https://docs.google.com/spreadsheets/d/12nOguE9l1JOKt8SKRY-HHSe4u4cLdYqLRlauNgJj_Zs/edit?usp=sharing)
-![](imgs/API정의서.png)
+![API정의서](https://user-images.githubusercontent.com/108394795/201238605-5e83d503-0237-43e7-8839-3b2017058d9d.png)
 
 　  
 ## [구현 영상](https://www.youtube.com/watch?v=bXAIobVNImg)
