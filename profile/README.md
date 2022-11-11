@@ -93,11 +93,11 @@ smingsming
 ![](imgs/화면정의서.png)
 
 ## [Requirements Specification](https://docs.google.com/spreadsheets/d/1h0bwG5rpz2PIL-nzUS_wUebae_34hMkCdxuDkRUPh8c/edit?usp=sharing)
-![](imgs/요구사항 정의서.png)
+![](imgs/요구사항정의서.png)
 
 
 ## [API definition](https://docs.google.com/spreadsheets/d/12nOguE9l1JOKt8SKRY-HHSe4u4cLdYqLRlauNgJj_Zs/edit?usp=sharing)
-![](imgs/API 정의서.png)
+![](imgs/API정의서.png)
 
 　  
 ## [구현 영상](https://www.youtube.com/watch?v=bXAIobVNImg)
