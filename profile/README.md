@@ -83,21 +83,21 @@ smingsming
 * 팀원 민광식 : API 연결, 검색, 음원, 채팅 기능 구현
 　  
 ## [ER diagram](https://www.erdcloud.com/d/Kiuv6hsaktt5AhegW)
-![](../imgs/ERD.png)
+![](imgs/ERD.png)
 
 
 ## [화면설계서](https://www.figma.com/file/8QKxDA9X93SblC2HkBSAUG/Sming-Sming?node-id=0%3A1)
-![](../imgs/화면설계서.png)
+![](imgs/화면설계서.png)
 
 ## [화면정의서](https://docs.google.com/presentation/d/1pd8nV2ZLs4-HWw1dbYU9lgc0gnLSC452/edit)
-![](../imgs/화면정의서.png)
+![](imgs/화면정의서.png)
 
 ## [Requirements Specification](https://docs.google.com/spreadsheets/d/1h0bwG5rpz2PIL-nzUS_wUebae_34hMkCdxuDkRUPh8c/edit?usp=sharing)
-![](../imgs/요구사항 정의서.png)
+![](imgs/요구사항 정의서.png)
 
 
 ## [API definition](https://docs.google.com/spreadsheets/d/12nOguE9l1JOKt8SKRY-HHSe4u4cLdYqLRlauNgJj_Zs/edit?usp=sharing)
-![](../imgs/API 정의서.png)
+![](imgs/API 정의서.png)
 
 　  
 ## [구현 영상](https://www.youtube.com/watch?v=bXAIobVNImg)
